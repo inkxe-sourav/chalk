@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "users":[  
+  {
+   "id":1,
+   "fname":"sourav",
+   "lname":"chatterjee",
+   "email":"souravc@riaxe.com",
+   "phno":"833890490",
+   "password":"riaxecom",
+   "refCode":"sou123"
   }
+  
+  ]
 }
