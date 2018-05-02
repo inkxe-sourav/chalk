@@ -14,7 +14,7 @@
   "first_name": "Mohamed",
   "last_name" : "Sohel",
   "email"     : "shl@gmail.com",
-  "phone"     : 9876543476
+  "phone"     : 9876543476,
   "password"  : "mshl",
   "referral_code": "msh0619"
 },
@@ -22,7 +22,7 @@
  "first_name": "N",
  "last_name" : "Divya",
  "email"     : "ndv@gmail.com",
- "phone"     : 9876756476
+ "phone"     : 9876756476,
  "password"  : "dvnsh",
  "referral_code": "div16026"
 },
@@ -32,7 +32,7 @@
  "first_name": "CS",
  "last_name" : "Kshyati",
  "email"     : "ndv@gmail.com",
- "phone"     : 9875656476
+ "phone"     : 9875656476,
  "password"  : "kshyt",
  "referral_code": "ksht2804"
 }  
