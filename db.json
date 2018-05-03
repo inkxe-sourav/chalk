@@ -35,6 +35,15 @@
  "phone"     : 9875656476,
  "password"  : "kshyt",
  "referral_code": "ksht2804"
+},
+ {
+ "id"        :4,
+ "first_name": "sourav",
+ "last_name" : "chatterjee",
+ "email"     : "admin",
+ "phone"     : 9875656476,
+ "password"  : "admin",
+ "referral_code": "admin@123"
 }  
   
   ]
