@@ -44,14 +44,32 @@
     "name":"120 TECNOMAR",
     "thumbnail":"https://image.yachtcharterfleet.com/charter-CLOUD-9/CLOUD-9-1.jpg?image_id=519748&k=3f0e&w=973&h=470&q=95&o=wc",
     "location":"Miami FL",
-    "cost_per_half_day":1200
+    "cost_per_half_day":1200,
+    "Year":2008,
+    "Cabin":2,
+    "Guests":10,
+    "Length":"43.0ft",
+    "Beam":"13.9ft",
+    "Depth":"3.5ft",
+    "Speed":22.0,
+    "Builder":"Marquis",
+    "Bathroom":1
    },
     {
     "id":2,
     "name":"cloudbreak",
     "thumbnail":"https://image.yachtcharterfleet.com/yacht-reviews-overview/cloudbreak-review.jpg?k=41a8&w=1507&h=783&q=90&o=ic%7B0.96.1450.623%7D&image_id=397817",
     "location":"Palm Beach FL",
-    "cost_per_half_day":4000
+    "cost_per_half_day":4000,
+    "Year":2018,
+    "Cabin":20,
+    "Guests":40,
+    "Length":"93.0ft",
+    "Beam":"13.9ft",
+    "Depth":"5.5ft",
+    "Speed":42.0,
+    "Builder":"Marquis",
+    "Bathroom":5
    }
  ]
   
