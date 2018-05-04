@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users":[  
   {
   "id"        :1,
@@ -44,7 +35,7 @@
  "phone"     : 9875656476,
  "password"  : "admin",
  "referral_code": "admin@123"
-}  
+}  ],
   
-  ]
+ "yacht_start_location":['Miami, FL','Fort Lauderdale, FL','Palm Beach, FL','Nassau, Bahamas','Dubai']
 }
