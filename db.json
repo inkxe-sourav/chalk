@@ -56,7 +56,8 @@
     "Bathroom":1,
     "lat":25.8932397,
     "lon":-80.1318107,
-    "images":["https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260","https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+    "images":["https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260","https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"],
+     "wishList":true
    },
     {
     "id":2,
