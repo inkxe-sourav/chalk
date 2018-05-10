@@ -78,6 +78,26 @@
     "lon":-80.233481,
     "wishList":true
    }
- ]
+ ],
+  "Airports":[
+    {
+      "name":"Miami International Airport",
+      "city":"Miami",
+      "location":"northwest of Downtown Miami",
+      "code":"MIA"
+    },
+    {
+      "name":"Kendall-Tamiami Executive Airport",
+      "city":"Miami",
+      "location":"southwest of Downtown Miami",
+      "code":"TMB"
+    },
+    {
+      "name":"Opa-locka Executive Airport",
+      "city":"Miami",
+      "location":"11 miles north of downtown Miami",
+      "code":"OPF"
+    }
+  ]
   
 }
