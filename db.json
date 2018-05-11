@@ -111,7 +111,6 @@
       "code":"LGA"
     }
   ],
-  "cities_with_flights":["Miami","New York"],
   "flights":[
     {
       "departure":"06:00 AM",
