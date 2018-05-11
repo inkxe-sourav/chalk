@@ -122,7 +122,9 @@
 		"orgCode": "MIA",
 		"desCode": "JFK",
 		"orgCity": "Miami",
-		"desCity": "New York"
+		"desCity": "New York",
+		"orgAirport":"Miami International Airport",
+		"desAirport":"John F. Kennedy International Airport"
 		}
 	]
 
