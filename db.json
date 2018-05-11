@@ -112,6 +112,7 @@
 	],
 	"availableFlights": [
 		{
+		"id":1,
 		"departure": "06:00 AM",
 		"arrival": "08:56 AM",
 		"date": "2018-05-24",
@@ -124,7 +125,8 @@
 		"orgCity": "Miami",
 		"desCity": "New York",
 		"orgAirport":"Miami International Airport",
-		"desAirport":"John F. Kennedy International Airport"
+		"desAirport":"John F. Kennedy International Airport",
+		"lat":
 		}
 	]
 
