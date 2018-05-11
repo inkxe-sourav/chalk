@@ -126,7 +126,8 @@
 		"desCity": "New York",
 		"orgAirport":"Miami International Airport",
 		"desAirport":"John F. Kennedy International Airport",
-		"lat":
+		"depLat":25.795865,
+		"depLon":-80.28704570000002
 		}
 	]
 
