@@ -1,131 +1,127 @@
-
-  "users":[  
-  {
-  "id"        :1,
-  "first_name": "Mohamed",
-  "last_name" : "Sohel",
-  "email"     : "shl@gmail.com",
-  "phone"     : 9876543476,
-  "password"  : "mshl",
-  "referral_code": "msh0619"
-},
-{  "id"        :2,
- "first_name": "N",
- "last_name" : "Divya",
- "email"     : "ndv@gmail.com",
- "phone"     : 9876756476,
- "password"  : "dvnsh",
- "referral_code": "div16026"
-},
-
 {
- "id"        :3,
- "first_name": "CS",
- "last_name" : "Kshyati",
- "email"     : "ndv@gmail.com",
- "phone"     : 9875656476,
- "password"  : "kshyt",
- "referral_code": "ksht2804"
-},
- {
- "id"        :4,
- "first_name": "sourav",
- "last_name" : "chatterjee",
- "email"     : "admin",
- "phone"     : 9875656476,
- "password"  : "admin",
- "referral_code": "admin@123"
-}  ],
-  
- "yacht_start_location":["Miami FL","Fort Lauderdale FL","Palm Beach FL","Nassau Bahamas","Dubai"],
- "yachts":[
-   {
-    "id":1,
-    "name":"120 TECNOMAR",
-    "thumbnail":"https://image.yachtcharterfleet.com/charter-CLOUD-9/CLOUD-9-1.jpg?image_id=519748&k=3f0e&w=973&h=470&q=95&o=wc",
-    "location":"Miami FL",
-    "cost_per_half_day":1200,
-    "Year":2008,
-    "Cabin":2,
-    "Guests":10,
-    "Length":"43.0ft",
-    "Beam":"13.9ft",
-    "Depth":"3.5ft",
-    "Speed":22.0,
-    "Builder":"Marquis",
-    "Bathroom":1,
-    "lat":25.8932397,
-    "lon":-80.1318107,
-    "images":["https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260","https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"],
-     "wishList":false
-   },
-    {
-    "id":2,
-    "name":"cloudbreak",
-    "thumbnail":"https://image.yachtcharterfleet.com/yacht-reviews-overview/cloudbreak-review.jpg?k=41a8&w=1507&h=783&q=90&o=ic%7B0.96.1450.623%7D&image_id=397817",
-    "location":"Palm Beach FL",
-    "cost_per_half_day":4000,
-    "Year":2018,
-    "Cabin":20,
-    "Guests":40,
-    "Length":"93.0ft",
-    "Beam":"13.9ft",
-    "Depth":"5.5ft",
-    "Speed":42.0,
-    "Builder":"Marquis",
-    "Bathroom":5,
-    "lat":26.8419568,
-    "lon":-80.233481,
-    "wishList":true
-   }
- ],
-  "Airports":[
-    {
-      "name":"Miami International Airport",
-      "city":"Miami",
-      "location":"northwest of Downtown Miami",
-      "code":"MIA"
-    },
-    {
-      "name":"Kendall-Tamiami Executive Airport",
-      "city":"Miami",
-      "location":"southwest of Downtown Miami",
-      "code":"TMB"
-    },
-    {
-      "name":"Opa-locka Executive Airport",
-      "city":"Miami",
-      "location":"11 miles north of downtown Miami",
-      "code":"OPF"
-    },
-    {
-      "name":"John F. Kennedy International Airport",
-      "city":"New York",
-      "location":"southeast of Midtown Manhattan",
-      "code":"JFK"
-    },
-    {
-      "name":"LaGuardia Airport",
-      "city":"New York",
-      "location":"East Elmhurst, Queens, New York City,",
-      "code":"LGA"
-    }
-  ],
-  "flights":[
-    {
-      "departure":"06:00 AM",
-      "arrival":"08:56 AM",
-      "date":"2018-5-24",
-      "aircraftThumbnail":"http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
-      "seats":10,
-      "price":500,
-      "aircraftInfo":"Turbo Prop",
-      "orgCode":"MIA",
-      "desCode":"JFK",
-      "orgCity":"Miami",
-      "desCity":"New York"
-    }
-  ]
- 
-  
+	"users": [{
+			"id": 1,
+			"first_name": "Mohamed",
+			"last_name": "Sohel",
+			"email": "shl@gmail.com",
+			"phone": 9876543476,
+			"password": "mshl",
+			"referral_code": "msh0619"
+		},
+		{
+			"id": 2,
+			"first_name": "N",
+			"last_name": "Divya",
+			"email": "ndv@gmail.com",
+			"phone": 9876756476,
+			"password": "dvnsh",
+			"referral_code": "div16026"
+		},
 
+		{
+			"id": 3,
+			"first_name": "CS",
+			"last_name": "Kshyati",
+			"email": "ndv@gmail.com",
+			"phone": 9875656476,
+			"password": "kshyt",
+			"referral_code": "ksht2804"
+		},
+		{
+			"id": 4,
+			"first_name": "sourav",
+			"last_name": "chatterjee",
+			"email": "admin",
+			"phone": 9875656476,
+			"password": "admin",
+			"referral_code": "admin@123"
+		}
+	],
+
+	"yacht_start_location": ["Miami FL", "Fort Lauderdale FL", "Palm Beach FL", "Nassau Bahamas", "Dubai"],
+	"yachts": [{
+			"id": 1,
+			"name": "120 TECNOMAR",
+			"thumbnail": "https://image.yachtcharterfleet.com/charter-CLOUD-9/CLOUD-9-1.jpg?image_id=519748&k=3f0e&w=973&h=470&q=95&o=wc",
+			"location": "Miami FL",
+			"cost_per_half_day": 1200,
+			"Year": 2008,
+			"Cabin": 2,
+			"Guests": 10,
+			"Length": "43.0ft",
+			"Beam": "13.9ft",
+			"Depth": "3.5ft",
+			"Speed": 22.0,
+			"Builder": "Marquis",
+			"Bathroom": 1,
+			"lat": 25.8932397,
+			"lon": -80.1318107,
+			"images": ["https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", "https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"],
+			"wishList": false
+		},
+		{
+			"id": 2,
+			"name": "cloudbreak",
+			"thumbnail": "https://image.yachtcharterfleet.com/yacht-reviews-overview/cloudbreak-review.jpg?k=41a8&w=1507&h=783&q=90&o=ic%7B0.96.1450.623%7D&image_id=397817",
+			"location": "Palm Beach FL",
+			"cost_per_half_day": 4000,
+			"Year": 2018,
+			"Cabin": 20,
+			"Guests": 40,
+			"Length": "93.0ft",
+			"Beam": "13.9ft",
+			"Depth": "5.5ft",
+			"Speed": 42.0,
+			"Builder": "Marquis",
+			"Bathroom": 5,
+			"lat": 26.8419568,
+			"lon": -80.233481,
+			"wishList": true
+		}
+	],
+	"Airports": [{
+			"name": "Miami International Airport",
+			"city": "Miami",
+			"location": "northwest of Downtown Miami",
+			"code": "MIA"
+		},
+		{
+			"name": "Kendall-Tamiami Executive Airport",
+			"city": "Miami",
+			"location": "southwest of Downtown Miami",
+			"code": "TMB"
+		},
+		{
+			"name": "Opa-locka Executive Airport",
+			"city": "Miami",
+			"location": "11 miles north of downtown Miami",
+			"code": "OPF"
+		},
+		{
+			"name": "John F. Kennedy International Airport",
+			"city": "New York",
+			"location": "southeast of Midtown Manhattan",
+			"code": "JFK"
+		},
+		{
+			"name": "LaGuardia Airport",
+			"city": "New York",
+			"location": "East Elmhurst, Queens, New York City,",
+			"code": "LGA"
+		}
+	],
+	"flights": [{
+		"departure": "06:00 AM",
+		"arrival": "08:56 AM",
+		"date": "2018-5-24",
+		"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+		"seats": 10,
+		"price": 500,
+		"aircraftInfo": "Turbo Prop",
+		"orgCode": "MIA",
+		"desCode": "JFK",
+		"orgCity": "Miami",
+		"desCity": "New York"
+	}]
+
+}
