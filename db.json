@@ -128,6 +128,24 @@
 		"desAirport":"John F. Kennedy International Airport",
 		"depLat":25.795865,
 		"depLon":-80.28704570000002
+		},
+		{
+		"id":2,
+		"departure": "11:30 AM",
+		"arrival": "2:00 PM",
+		"date": "2018-05-24",
+		"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+		"seats": 0,
+		"price": 500,
+		"aircraftInfo": "Turbo Prop",
+		"orgCode": "MIA",
+		"desCode": "JFK",
+		"orgCity": "Miami",
+		"desCity": "New York",
+		"orgAirport":"Miami International Airport",
+		"desAirport":"John F. Kennedy International Airport",
+		"depLat":25.795865,
+		"depLon":-80.28704570000002
 		}
 	]
 
