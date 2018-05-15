@@ -1,5 +1,6 @@
 {
-	"users": [{
+	"users": [
+		{
 			"id": 1,
 			"first_name": "Mohamed",
 			"last_name": "Sohel",
@@ -17,7 +18,6 @@
 			"password": "dvnsh",
 			"referral_code": "div16026"
 		},
-
 		{
 			"id": 3,
 			"first_name": "CS",
@@ -37,9 +37,15 @@
 			"referral_code": "admin@123"
 		}
 	],
-
-	"yacht_start_location": ["Miami FL", "Fort Lauderdale FL", "Palm Beach FL", "Nassau Bahamas", "Dubai"],
-	"yachts": [{
+	"yacht_start_location": [
+		"Miami FL",
+		"Fort Lauderdale FL",
+		"Palm Beach FL",
+		"Nassau Bahamas",
+		"Dubai"
+	],
+	"yachts": [
+		{
 			"id": 1,
 			"name": "120 TECNOMAR",
 			"thumbnail": "https://image.yachtcharterfleet.com/charter-CLOUD-9/CLOUD-9-1.jpg?image_id=519748&k=3f0e&w=973&h=470&q=95&o=wc",
@@ -51,14 +57,17 @@
 			"Length": "43.0ft",
 			"Beam": "13.9ft",
 			"Depth": "3.5ft",
-			"Speed": 22.0,
+			"Speed": 22,
 			"Builder": "Marquis",
 			"Bathroom": 1,
 			"lat": 25.8932397,
 			"lon": -80.1318107,
-			"images": ["https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", "https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"],
+			"images": [
+				"https://images.pexels.com/photos/843633/pexels-photo-843633.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+				"https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			],
 			"wishList": false,
-			"available":true
+			"available": true
 		},
 		{
 			"id": 2,
@@ -72,16 +81,17 @@
 			"Length": "93.0ft",
 			"Beam": "13.9ft",
 			"Depth": "5.5ft",
-			"Speed": 42.0,
+			"Speed": 42,
 			"Builder": "Marquis",
 			"Bathroom": 5,
 			"lat": 26.8419568,
 			"lon": -80.233481,
 			"wishList": true,
-			"available":true
+			"available": true
 		}
 	],
-	"Airports": [{
+	"Airports": [
+		{
 			"name": "Miami International Airport",
 			"city": "Miami",
 			"location": "northwest of Downtown Miami",
@@ -114,79 +124,78 @@
 	],
 	"availableFlights": [
 		{
-		"id":1,
-		"departure": "06:00 AM",
-		"arrival": "08:56 AM",
-		"date": "2018-05-24",
-		"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
-		"seats": 10,
-		"price": 500,
-		"aircraftInfo": "Turbo Prop",
-		"orgCode": "MIA",
-		"desCode": "JFK",
-		"orgCity": "Miami",
-		"desCity": "New York",
-		"orgAirport":"Miami International Airport",
-		"desAirport":"John F. Kennedy International Airport",
-		"depLat":25.795865,
-		"depLon":-80.28704570000002,
-		"tax":75
+			"id": 1,
+			"departure": "06:00 AM",
+			"arrival": "08:56 AM",
+			"date": "2018-05-24",
+			"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+			"seats": 10,
+			"price": 500,
+			"aircraftInfo": "Turbo Prop",
+			"orgCode": "MIA",
+			"desCode": "JFK",
+			"orgCity": "Miami",
+			"desCity": "New York",
+			"orgAirport": "Miami International Airport",
+			"desAirport": "John F. Kennedy International Airport",
+			"depLat": 25.795865,
+			"depLon": -80.28704570000002,
+			"tax": 75
 		},
 		{
-		"id":2,
-		"departure": "11:30 AM",
-		"arrival": "2:00 PM",
-		"date": "2018-05-24",
-		"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
-		"seats": 0,
-		"price": 500,
-		"aircraftInfo": "Turbo Prop",
-		"orgCode": "MIA",
-		"desCode": "JFK",
-		"orgCity": "Miami",
-		"desCity": "New York",
-		"orgAirport":"Miami International Airport",
-		"desAirport":"John F. Kennedy International Airport",
-		"depLat":25.795865,
-		"depLon":-80.28704570000002,
-		"tax":120
+			"id": 2,
+			"departure": "11:30 AM",
+			"arrival": "2:00 PM",
+			"date": "2018-05-24",
+			"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+			"seats": 0,
+			"price": 500,
+			"aircraftInfo": "Turbo Prop",
+			"orgCode": "MIA",
+			"desCode": "JFK",
+			"orgCity": "Miami",
+			"desCity": "New York",
+			"orgAirport": "Miami International Airport",
+			"desAirport": "John F. Kennedy International Airport",
+			"depLat": 25.795865,
+			"depLon": -80.28704570000002,
+			"tax": 120
 		},
 		{
-		"id":3,
-		"departure": "11:30 AM",
-		"arrival": "2:00 PM",
-		"date": "2018-05-25",
-		"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
-		"seats": 5,
-		"price": 450,
-		"aircraftInfo": "Turbo Prop",
-		"orgCode": "JFK",
-		"desCode": "MIA",
-		"orgCity": "New York",
-		"desCity": "Miami",
-		"orgAirport":"John F. Kennedy International Airport",
-		"desAirport":"Miami International Airport",
-		"depLat":40.645477,
-		"depLon":-73.781187,
-		"tax":110
+			"id": 3,
+			"departure": "11:30 AM",
+			"arrival": "2:00 PM",
+			"date": "2018-05-25",
+			"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+			"seats": 5,
+			"price": 450,
+			"aircraftInfo": "Turbo Prop",
+			"orgCode": "JFK",
+			"desCode": "MIA",
+			"orgCity": "New York",
+			"desCity": "Miami",
+			"orgAirport": "John F. Kennedy International Airport",
+			"desAirport": "Miami International Airport",
+			"depLat": 40.645477,
+			"depLon": -73.781187,
+			"tax": 110
 		}
 	],
-	"charteredFlights":[{
-		 "id":1,
-		 "name":"Turboprop",
-		 "seats":7,
-		 "price":14800,
-		 "date":"2018-05-29",
-		 "estimatedPrice":0,
-		 "orgCode": "MIA",
-		 "desCode": "JFK",
-		 "orgAirport":"Miami International Airport",
-		 "desAirport":"John F. Kennedy International Airport",
-		 "depLat":25.795865,
-		 "depLon":-80.28704570000002,
-		 "aircraftThumbnail":"https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
+	"charteredFlights": [
+		{
+			"id": 1,
+			"name": "Turboprop",
+			"seats": 7,
+			"price": 14800,
+			"date": "2018-05-29",
+			"estimatedPrice": 0,
+			"orgCode": "MIA",
+			"desCode": "JFK",
+			"orgAirport": "Miami International Airport",
+			"desAirport": "John F. Kennedy International Airport",
+			"depLat": 25.795865,
+			"depLon": -80.28704570000002,
+			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
 		}
 	]
-
-
 }
