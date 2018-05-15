@@ -177,6 +177,7 @@
 		 "name":"Turboprop",
 		 "seats":7,
 		 "price":14800,
+		 "date":"2018-05-29",
 		 "estimatedPrice":0,
 		 "orgCode": "MIA",
 		 "desCode": "JFK",
