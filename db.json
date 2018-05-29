@@ -179,6 +179,25 @@
 			"depLat": 40.645477,
 			"depLon": -73.781187,
 			"tax": 110
+		},
+		{
+			"id": 4,
+			"departure": "11:30 AM",
+			"arrival": "2:00 PM",
+			"date": "2018-05-29",
+			"aircraftThumbnail": "http://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+			"seats": 0,
+			"price": 500,
+			"aircraftInfo": "Turbo Prop",
+			"orgCode": "TMB",
+			"desCode": "JFK",
+			"orgCity": "Miami",
+			"desCity": "New York",
+			"orgAirport": "Kendall-Tamiami Executive Airport",
+			"desAirport": "John F. Kennedy International Airport",
+			"depLat": 25.795865,
+			"depLon": -80.28704570000002,
+			"tax": 120
 		}
 	]
 }
